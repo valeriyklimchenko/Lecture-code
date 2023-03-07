@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='01 Structure'/>
+        <page name='02 Previous Lesson'/>
+        <page name='03 Dictionary'/>
+        <page name='04 Dictionary for-in'/>
+        <page name='05 Dictionary from arrays'/>
+        <page name='06 Tuples'/>
+        <page name='07 Sets'/>
+        <page name='08 For-in'/>
+        <page name='09 While'/>
+        <page name='10 Repeat-while'/>
+        <page name='11 Continue-begin'/>
+        <page name='12 Totals'/>
+        <page name='13 Homework'/>
+    </pages>
+</playground>
